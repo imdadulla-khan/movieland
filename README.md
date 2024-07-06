@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# screenshot of the webpage:
+
+![Screenshot 2024-07-07 012908](https://github.com/imdadulla-khan/movieland/assets/128115396/32b252d5-2503-436e-b5c8-00176df63195)
+
 ## Available Scripts
 
 In the project directory, you can run:
